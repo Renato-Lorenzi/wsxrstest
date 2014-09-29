@@ -1,0 +1,17 @@
+
+aggregate_report_count,average,aggregate_report_min,aggregate_report_max,aggregate_report_stddev,aggregate_report_error%,aggregate_report_rate,aggregate_report_bandwidth,average_bytes
+		
+	  count|AVG |MIN| MAX | STDDEV            |ERR%| Throughput        |  KB/SEC          |AVG bytes
+rest |5000 |267 |12 |1907 |160.19672585717848 |0.0 |173.29220531660485 |42.67828247929158 |252.19
+ws   |5000 |173 |10 |609  |84.60841649836026  |0.0 |250.6516944054542  |89.58839858632444 |366.0
+
+
+
+
+44% 
+
+
+
+     count|AVG|MIN| MAX | STDDEV            |ERR%| Throughput        |  KB/SEC          |AVG bytes
+rest |2500|20 |8  | 72  |3.0704102918014233 |0.0 |209.17001338688084 |51.71851141545348 |253.19
+ws   |2500|20 |9  | 55  |2.834196069434849  |0.0 |208.35069589132428 |74.67256385948829 |367.0

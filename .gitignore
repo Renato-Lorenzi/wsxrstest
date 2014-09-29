@@ -1,0 +1,8 @@
+target
+tomcat.8080
+tomcat.5000
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
