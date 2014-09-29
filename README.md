@@ -89,15 +89,16 @@ Como pode ser visto na tabela acima o REST teve um Throughput 2.09% maior, poré
 
 O resultado em relação a uso de CPU é apresentado no gráfico abaixo:
 
-[gráfico]
+![Image of CPU use]
+(https://raw.githubusercontent.com/Renato-Lorenzi/wsxrstest/master/img/cpu_use.png)
 
 Como pode ser visto não houve grande diferença entre o consumo de CPU do SOAP em relação, porém o que pode-se destacar é que o acabou consumindo menos.
 
 
 O resultado em relação a uso de memória é apresentado no gráfico abaixo:
 
-[gráfico]
-
+![Image of Memory use]
+(https://raw.githubusercontent.com/Renato-Lorenzi/wsxrstest/master/img/mem_use.png)
 
 
 Como pode ser visto o resultado em relação ao consumo de memória foi praticamente o mesmo. A diferença que o REST teve um pico de uso de memória um pouco maior em relação ao REST. Nos dados apresentados está sendo desconsiderado o consumo de memória real do processo e apenas está sendo apresentado a variação do inicio ao fim do teste.
